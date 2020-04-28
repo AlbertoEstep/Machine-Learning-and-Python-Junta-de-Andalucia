@@ -128,6 +128,7 @@ dmypy.json
 
 # FICHEROS A INGNORAR
 Sesion2
+ProyectoFinal/dataset.zip
 
 # Pyre type checker
 .pyre/

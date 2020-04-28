@@ -1,0 +1,11 @@
+Referencias:
+
+https://www.linkedin.com/pulse/an%C3%A1lisis-exploratorio-de-datos-con-python-almudena-bonaplata/
+
+https://www.kaggle.com/abonaplata/analisis-exploratorio-de-datos-con-python/
+
+https://www.aprendemachinelearning.com/analisis-exploratorio-de-datos-pandas-python/
+
+https://github.com/ai-saturdays-guayaquil/Curso
+
+https://nbviewer.jupyter.org/github/ThatCSharpGuy/nbstuff/blob/master/Intro.ipynb
